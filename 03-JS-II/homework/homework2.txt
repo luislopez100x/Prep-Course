@@ -1,0 +1,6 @@
+* `for`
+    se usa para hacer un bucle de procesos por un cierto tiempo
+* `&&`, `||`, `!`
+    && que significa "AND"
+    || que signifia "OR"
+    ! que significa "NEGACION"
