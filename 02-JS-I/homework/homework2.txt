@@ -1,0 +1,10 @@
+Variables
+    Se denomina a valores que permiten guardar y simplificar diversos datos
+ * Strings
+    Es un tipo de dato utilizado para guardar textos entre comillas
+ * Funciones (argumentos, `return`)
+    Las funciones son una parte muy importante de todo lenguaje de programacion y sobre todo en JavaScript. Són tipos particulares de objetos, llamados ***callable objects*** u objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto.
+ * Declaraciones `if`
+    Son condiciones que se utilizan para dar 2 o más opciones como resultado
+ * Valores booleanos (`true`, `false`)
+    Se utiliza para calcular problemas ya sean verdadero o falso
